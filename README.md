@@ -24,4 +24,5 @@ There was no positivity bias for reviews in the Vine program. The percentage of 
 
 An additional analysis that could be done with the dataset to support the statement: 
 - Calculated the total number of reviews, the number of reviews per stars, and the percentage of reviews per stars for 1, 2, 3, and 4 stars reviews for all Vine and non-Vine reviews
+- Change the Dataset and re-run the analysis. 
 
